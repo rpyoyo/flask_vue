@@ -8,3 +8,4 @@ npm run dev
 npm install iview -S
 npm install sass-loader -D
 npm install node-sass -D
+npm install axios -S
